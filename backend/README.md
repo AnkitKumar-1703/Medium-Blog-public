@@ -60,4 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Ankit Kumar - [contactankit1234@gmail.com]
 
-Project Link: [https://github.com/AnkitKumar-1703/Medium-Blog](https://github.com/AnkitKumar-1703/Medium-Blog)
+Project Link: [https://github.com/AnkitKumar-1703/Medium-Blog-public](https://github.com/AnkitKumar-1703/Medium-Blog-public)
