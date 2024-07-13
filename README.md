@@ -26,6 +26,7 @@ Our project is designed with both readers and writers in mind. It offers a seaml
 - **User Authentication**: Secure sign-up and login functionality.
 - **Blog Reading**: Scroll through a feed of blogs or use the search function to find specific topics.
 - **Blog Publishing**: Easy-to-use interface for writing and publishing your own blogs.
+- **Blog Deletion**: Seamlessly delete your blog posts directly from your profile with instant updates to the user interface.
 - **Search Functionality**: Powerful search feature to find blogs by title, content, or author.
 - **Responsive Design**: Optimal viewing experience across a wide range of devices.
 - **Dark/Light Theme**: Toggle between dark and light modes for comfortable reading in any environment.
